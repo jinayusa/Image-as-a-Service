@@ -133,5 +133,3 @@ This project is licensed under the MIT License.
 
 - Replace `your-username`, `your-access-key-id`, `your-secret-access-key`, and `your-region` with your actual GitHub username and AWS credentials.
 - If you're using AWS Amplify, be sure to replace the `awsconfig` with the correct Amplify configuration that you generate using the Amplify CLI.
-
-Let me know if you need to add any other sections or details to the README!
